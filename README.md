@@ -42,6 +42,12 @@ Este repositorio contiene el material completo para la **Microcredencial en Prog
 - **covid-analysis/**: Análisis de datos de COVID-19
 - **har-activity-recognition/**: Reconocimiento de actividades humanas con sensores
 
+### 05-advanced-data-analysis/
+**Análisis Avanzado de Datos**
+- **boston-housing/**: Análisis de precios de viviendas
+- **iris-species/**: Análisis de especies de Iris
+- **global-climate/**: Análisis de datos climáticos globales
+
 ## 🚀 Cómo Empezar
 
 1. **Prerrequisitos**: Conocimientos básicos de matemáticas y lógica
