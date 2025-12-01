@@ -12,42 +12,6 @@ Este repositorio contiene el material completo para la **Microcredencial en Prog
 - **Visualización de datos** - Comunicación efectiva a través de gráficos
 - **Resolución de problemas de ingeniería** - Aplicación práctica de herramientas de datos
 
-## 📖 Estructura del Curso
-
-### 00-raw-data/
-**Datos crudos para explorar**
-- Datasets de diferentes dominios de ingeniería
-- Aplicaciones prácticas de los conceptos aprendidos
-
-### 01-fundamentals/
-**Fundamentos de Python**
-- Variables, tipos de datos y operaciones aritméticas
-- Estructuras de control y funciones básicas
-- Manejo de archivos y fechas
-
-### 02-oop/
-**Programación Orientada a Objetos**
-- Clases, objetos y herencia
-- Encapsulación, polimorfismo y abstracción
-- Diseño de software orientado a objetos
-
-### 03-debugging/
-**Depuración y Debugging**
-- Técnicas de depuración en Python
-- Uso de herramientas de debugging
-- Mejores prácticas para código robusto
-
-### 04-data-analysis/
-**Análisis de Datos**
-- **covid-analysis/**: Análisis de datos de COVID-19
-- **har-activity-recognition/**: Reconocimiento de actividades humanas con sensores
-
-### 05-advanced-data-analysis/
-**Análisis Avanzado de Datos**
-- **boston-housing/**: Análisis de precios de viviendas
-- **iris-species/**: Análisis de especies de Iris
-- **global-climate/**: Análisis de datos climáticos globales
-
 ## 🚀 Cómo Empezar
 
 1. **Prerrequisitos**: Conocimientos básicos de matemáticas y lógica
